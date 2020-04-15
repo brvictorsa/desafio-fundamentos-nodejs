@@ -1,6 +1,6 @@
 ## :rocket: DESAFIO DOS FUNDAMENTOS DE NODE.JS COM TYPESCRIPT
 
-Foi implementada uma aplicação para armazenar transações financeiras de entrada e saída e que permite o cadastro e a listagem dessas transações.
+Foi implementada uma aplicação backend para armazenar transações financeiras de entrada e saída. A aplicação possibilita o cadastro e a listagem das transações cadastradas.
 
 ### Rotas da aplicação
 
